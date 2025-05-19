@@ -25,7 +25,6 @@ A professional website for Touchwood Makeup Artist, showcasing bridal and specia
 
 ## 📱 Contact Information
 
-- **Phone:** +91 9095031045
 - **Location:** Trichy and Erode based
 - **Service Area:** Available for travel
 - **Booking:** Direct message for details
